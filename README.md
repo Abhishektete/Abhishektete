@@ -1,3 +1,4 @@
+![github](https://github.com/Abhishektete/Abhishektete/assets/130038525/04fb083b-99bb-40f3-bfe3-274e2b9112ef)
 - 👋 Hi, I’m @Abhishektete
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,3 +9,4 @@
 Abhishektete/Abhishektete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
